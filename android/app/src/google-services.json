@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814101919154",
+    "project_id": "dressmeup-cddee",
+    "storage_bucket": "dressmeup-cddee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814101919154:android:7cabd9a724cb89fd49e0ab",
+        "android_client_info": {
+          "package_name": "com.example.dressmeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814101919154-q0oj7aje3t77adi70qvuq0mv94is8n3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjv5I2xIQKQfpWIkBH7UEyiwENqSvBgdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814101919154-q0oj7aje3t77adi70qvuq0mv94is8n3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
